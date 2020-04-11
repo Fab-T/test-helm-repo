@@ -1,0 +1,19 @@
+apiVersion: v1
+entries:
+  authproxy:
+  - apiVersion: v2
+    created: "2020-04-11T03:15:07.014895511Z"
+    description: A Helm chart to deploy oidc server on Kubernetes
+    digest: f8043bbb13088e5a30d726df77703d4a694e97c84c2a194b6142986b337e1ee6
+    keywords:
+    - google
+    - cloud
+    maintainers:
+    - email: Fab-T@github.org
+      name: FabT
+    name: authproxy
+    type: application
+    urls:
+    - https://github.com/Fab-T/test-helm-repo/releases/download/authproxy-0.0.11/authproxy-0.0.11.tgz
+    version: 0.0.11
+generated: "2020-04-11T03:15:06.922307209Z"
