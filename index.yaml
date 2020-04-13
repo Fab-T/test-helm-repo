@@ -2,9 +2,9 @@ apiVersion: v1
 entries:
   authproxy:
   - apiVersion: v2
-    created: "2020-04-13T03:54:05.885255808Z"
+    created: "2020-04-13T21:24:36.246265309Z"
     description: A Helm chart to deploy authproxy on Kubernetes
-    digest: 44b20e7c10198426867d00ea080978ff5adb6490afd1a6a338e323b69383b62e
+    digest: 432268b75a588519bca8a79a8faf59a955ae235144261d8d45c52c2dc3cc3440
     keywords:
     - google
     - cloud
@@ -14,13 +14,13 @@ entries:
     name: authproxy
     type: application
     urls:
-    - https://github.com/Fab-T/test-helm-repo/releases/download/authproxy-0.0.12/authproxy-0.0.12.tgz
-    version: 0.0.12
+    - https://github.com/Fab-T/test-helm-repo/releases/download/authproxy-0.0.13/authproxy-0.0.13.tgz
+    version: 0.0.13
   wfl-authproxy:
   - apiVersion: v2
-    created: "2020-04-13T03:54:05.970351533Z"
+    created: "2020-04-13T21:24:36.334473447Z"
     description: A Helm chart to deploy authproxy on Kubernetes
-    digest: 571809ddc91541473689d35d0beb22be93ef2c91ccd8b6a9be8cf21af0997f88
+    digest: da36c90f79f92d93a735769e191d0d0e03edd0fc2d6d145b28922fde4d2fe16e
     keywords:
     - google
     - cloud
@@ -30,6 +30,6 @@ entries:
     name: wfl-authproxy
     type: application
     urls:
-    - https://github.com/Fab-T/test-helm-repo/releases/download/wfl-authproxy-0.0.1/wfl-authproxy-0.0.1.tgz
-    version: 0.0.1
-generated: "2020-04-13T03:54:05.797342632Z"
+    - https://github.com/Fab-T/test-helm-repo/releases/download/wfl-authproxy-0.0.2/wfl-authproxy-0.0.2.tgz
+    version: 0.0.2
+generated: "2020-04-13T21:24:36.153585115Z"
