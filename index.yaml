@@ -2,6 +2,21 @@ apiVersion: v1
 entries:
   authproxy:
   - apiVersion: v2
+    created: "2020-04-16T22:33:45.860441071Z"
+    description: A Helm chart to deploy authproxy on Kubernetes
+    digest: 16a984bf28e5b36d8186e6f10ae3a7c58329562dff7783939d2ec35c8a42e1e9
+    keywords:
+    - google
+    - cloud
+    maintainers:
+    - email: Fab-T@github.org
+      name: FabT
+    name: authproxy
+    type: application
+    urls:
+    - https://github.com/Fab-T/test-helm-repo/releases/download/authproxy-0.0.14/authproxy-0.0.14.tgz
+    version: 0.0.14
+  - apiVersion: v2
     created: "2020-04-13T21:24:36.246265309Z"
     description: A Helm chart to deploy authproxy on Kubernetes
     digest: 432268b75a588519bca8a79a8faf59a955ae235144261d8d45c52c2dc3cc3440
